@@ -1,0 +1,17 @@
+{
+  "name": "jquery-if-browser",
+  "author": "Todd Northrop",
+  "homepage": "https://code.google.com/p/jquery-if/",
+  "version": "1.0.2-1",
+  "description": "jquery-if for browsers",
+  "main": "jquery.if.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT or GPL2",
+  "readmeFilename": "readme.txt",
+  "repository": {
+    "type":"git",
+    "url": "http://github.com/kapouer/jquery-if-browser.git"
+  }
+}
